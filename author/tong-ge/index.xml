@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tong Ge | Xingyu Ni&#39;s Homepage</title>
+    <link>https://starryuniv.cn/author/tong-ge/</link>
+      <atom:link href="https://starryuniv.cn/author/tong-ge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tong Ge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020--2020 Xingyu Ni at CFCS, Peking University. All rights reserved.</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://starryuniv.cn/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tong Ge</title>
+      <link>https://starryuniv.cn/author/tong-ge/</link>
+    </image>
+    
+    <item>
+      <title>Visual Data Analysis and Simulation Prediction for COVID-19</title>
+      <link>https://starryuniv.cn/publication/visual-data-analysis-and-simulation-prediction-for-covid-19/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://starryuniv.cn/publication/visual-data-analysis-and-simulation-prediction-for-covid-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
